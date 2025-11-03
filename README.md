@@ -26,7 +26,7 @@ This project provides a comprehensive toolkit for applying Machine Learning and 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/AnandBinuArjun/ML---Data-Driven-Forensic-Automation)>
    cd ml-data-driven-forensic-automation
    ```
 
@@ -106,7 +106,7 @@ ml-data-driven-forensic-automation/
 
 ## Google Colab Integration
 
-The project supports Google Colab for cloud-based experimentation. The [demo.ipynb](file:///c%3A/Users/anand/Downloads/ML%20%26%20DATA%20DRIVEN%20FORENSIC%20AUTOMOTATION/demo.ipynb) notebook provides examples of how to use all components in a cloud environment.
+The project supports Google Colab for cloud-based experimentation. The [demo.ipynb](https://github.com/AnandBinuArjun/ML---Data-Driven-Forensic-Automation) notebook provides examples of how to use all components in a cloud environment.
 
 ## Requirements
 
